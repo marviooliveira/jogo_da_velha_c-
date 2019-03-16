@@ -1,0 +1,27 @@
+etapas do jogo da velha que anda faltam:
+1.Parte de comecar a implementar o jogo em si, desde o primeiro movimento
+2. inteligencia artificial.
+
+3. mapa de probablidades para vez do usuario.
+		PROBABILIDADE 1:
+	usuario comeca e maquina nivel facil
+		PROBABILIDADE 2:
+	maquina comeca e nivel facil
+		PROBABILIDADE 3:
+	usuario comeca e maquina nivel medio
+		PROBABILIDADE 4:
+	maquina comeca e nivel medio
+		PROBABILIDADE 5:
+	usuario comeca e nivel dificil
+		PROBABILIDADE 6:
+	maquina comeca e nivel dificil
+4.matriz de posicoes , cada posicao equivale a um par ordenado.	
+5.Aqui eu deveria pensar na logica para nivel medio e nivel dificil.
+	5.1-para o facil apenas uma simples logica de preencher sucessivamente um aTRas do outro.
+	5.2-para o medio apenas em usar a funcao srand e o numero ealeatorio preenche a matriz.
+	5.3- para o nivel dificil utilizo o srand, e bloqueio as posicoes possiveis do usuario vencer.
+6. bug 1: maquina no facil ele n conta vitoria na 1,2,3
+
+ANOTACOES DE MOMENTO: (FUI BEBER AGUA E PEGAR COMIDA)
+	ERRO: so falta o nivel dificil
+JA FINALIZEI TUDO! :)
